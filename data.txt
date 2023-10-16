@@ -1,0 +1,15 @@
+1, Broken Verses, Kamila Shamsie, 2013, 5, 790
+3, The News International, Jang Media Group, 23, 02-09-2023
+2, Newsline, a1., Hum Network Limited, 7, 1035
+3, Daily Times, The DT Company, 31, 01-09-2023
+1, It Ends With Us, Colleen Hoover, 2016, 19, 1100
+3, DAWN, DAWN Media Group, 38, 05-09-2023
+2, Diva Magazine, a1, a2., Diva Online, 29, 980
+1, The Forty Rules of Love, Elif Shafak, 2009, 27, 880
+2, Southasia Magazine, a1, a2, a3., SOUTHASIA Publications, 24, 1030
+1, A Thousand Splendid Suns, Khaled Hosseini, 2007, 34, 1470
+3, Daily Jung, Geo Group, 17, 03-09-2023
+1, Before the Coffee Gets Cold, Toshikazu Kawaguchi, 2015, 23, 950
+2, Vogue, a1, a2., Condé Nast Publications, 31, 1250
+3, Daily Express, Lakson Group, 39, 04-09-2023
+2, Newsweek Pakistan, a1, a2, a3., AG Publications, 21, 1090
